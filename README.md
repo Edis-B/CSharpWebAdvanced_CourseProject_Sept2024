@@ -7,6 +7,8 @@ This is a project for the course ASPNET Advanced Softuni
 - To start the project, input your **DefaultConnection** string in the `appsettings.json` file under the **ConnectionStrings** section.
   
 Example:
+
+```json
 {
   "ConnectionStrings": {
     "DefaultConnection": "YourConnectionString"
